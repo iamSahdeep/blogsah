@@ -1,47 +1,47 @@
 ---
 label: Post
-is_partial: false
+hide_body: false
 fields:
-  - type: text
-    name: title
-    label: Title
-    description: The title of the post
-    config:
-      required: true
-  - type: text
-    name: subtitle
-    label: Subtitle
-    description: The text shown just below the post title.
-  - type: datetime
-    name: date
-    label: Date
-    config:
-      required: true
-  - type: file
-    name: thumb_img_path
-    label: Featured Image
-    description: The image shown in the blog feed.
-  - type: file
-    name: content_img_path
-    label: Alternative Featured Image
-    description: The image shown in the single post.
-  - type: text
-    name: excerpt
-    label: Excerpt
-    description: The excerpt of the post displayed in the blog feed.
-  - type: text
-    name: template
-    label: Template
-    hidden: true
-    default: post
-    config:
-      required: true
+- type: text
+  name: title
+  label: Title
+  description: The title of the post
+  config:
+    required: true
+- type: text
+  name: subtitle
+  label: Subtitle
+  description: The text shown just below the post title.
+- type: datetime
+  name: date
+  label: Date
+  config:
+    required: true
+- type: file
+  name: thumb_img_path
+  label: Featured Image
+  description: The image shown in the blog feed.
+- type: file
+  name: content_img_path
+  label: Alternative Featured Image
+  description: The image shown in the single post.
+- type: text
+  name: excerpt
+  label: Excerpt
+  description: The excerpt of the post displayed in the blog feed.
+- type: text
+  name: template
+  label: Template
+  hidden: true
+  default: post
+  config:
+    required: true
 pages:
-  - src/pages/posts/2016-08-22-working-from-home.md
-  - src/pages/posts/2017-03-26-interior-designer.md
-  - src/pages/posts/2018-01-09-games.md
-  - src/pages/posts/2018-01-11-green.md
-  - src/pages/posts/2018-01-15-function-of-design .md
-  - src/pages/posts/2019-03-10-street-photography.md
-  - src/pages/posts/2019-03-24-workplace.md
-  - src/pages/posts/2019-03-27-why-fonts-matter.md
+- src/pages/posts/2016-08-22-working-from-home.md
+- src/pages/posts/2017-03-26-interior-designer.md
+- src/pages/posts/2018-01-09-games.md
+- src/pages/posts/2018-01-11-green.md
+- src/pages/posts/2018-01-15-function-of-design .md
+- src/pages/posts/2019-03-10-street-photography.md
+- src/pages/posts/2019-03-24-workplace.md
+- src/pages/posts/2019-03-27-why-fonts-matter.md
