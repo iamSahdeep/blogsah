@@ -1,0 +1,42 @@
+---
+label: Project
+is_partial: false
+fields:
+  - type: text
+    name: title
+    label: Title
+    description: The title of the project
+    config:
+      required: true
+  - type: text
+    name: subtitle
+    label: Subtitle
+    description: The text shown just below the project title.
+  - type: datetime
+    name: date
+    label: Date
+    config:
+      required: true
+  - type: file
+    name: thumb_img_path
+    label: Featured Image
+    description: The image shown in the project page.
+  - type: file
+    name: content_img_path
+    label: Alternative Featured Image
+    description: The image shown in the single project.
+  - type: text
+    name: template
+    label: Template
+    hidden: true
+    default: project
+    config:
+      required: true
+pages:
+  - src/pages/projects/project-1.md
+  - src/pages/projects/project-2.md
+  - src/pages/projects/project-3.md
+  - src/pages/projects/project-4.md
+  - src/pages/projects/project-5.md
+  - src/pages/projects/project-6.md
+  - src/pages/projects/project-7.md

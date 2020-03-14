@@ -1,0 +1,50 @@
+---
+label: Services Section
+hide_body: true
+is_partial: true
+display_field: title
+fields:
+  - type: text
+    name: title
+    label: Title
+    description: The title of the section.
+  - type: text
+    name: section_id
+    label: Element ID
+  - type: text
+    name: component
+    label: Component
+    hidden: true
+    default: ServicesBlock
+    config:
+      required: true
+  - type: text
+    name: subtitle
+    label: Subtitle
+    description: The subtitle of the section.
+  - type: field_group_list
+    name: serviceslist
+    label: Services
+    fields:
+      - type: text
+        name: title
+        label: Title
+        description: The title of the service.
+      - type: textarea
+        name: content
+        label: Content
+        description: The text content of the service.
+        config:
+          wysiwyg: true
+          schema:
+            format: markdown
+    config:
+      labelField: title
+  - type: text
+    name: type
+    label: Reference Type Name
+    description: 'Name of the Stackbit object model, used by fields of type reference'
+    hidden: true
+    default: servicesblock
+    config:
+      required: true
