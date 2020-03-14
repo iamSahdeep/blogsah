@@ -1,20 +1,19 @@
 {
-    "title": "Stackbit Exto Theme",
-    "color_scheme": "light",
-    "accent_color": "pink",
-    "header": {
-        "title": "Exto",
-        "has_nav": true
-    },
-    "footer": {
-        "content": "&copy; Stackbit-Exto. All rights reserved.",
-        "links": [
-            {
-                "text": "Made with Stackbit",
-                "url": "https://www.stackbit.com",
-                "new_window": true
-            }
-        ],
-        "has_social": true
-    }
+  "title": "Sahdeep Singh",
+  "color_scheme": "dark",
+  "accent_color": "blue",
+  "header": {
+    "title": "SAH",
+    "has_nav": true
+  },
+  "footer": {
+    "content": "&copy; Sahdeep Singh. All rights reserved.",
+    "links": [
+      {
+        "text": "Build with <3",
+        "new_window": true
+      }
+    ],
+    "has_social": true
+  }
 }
