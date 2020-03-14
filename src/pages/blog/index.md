@@ -1,8 +1,9 @@
 ---
-title: Blog
+title: Temp Blog
 menus:
   main:
     title: Blog
     weight: 3
 template: blog
+
 ---
