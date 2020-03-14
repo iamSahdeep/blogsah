@@ -1,5 +1,5 @@
 ---
-title: Temp Blog
+title: ASFGA
 menus:
   main:
     title: Blog
