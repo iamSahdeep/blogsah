@@ -1,5 +1,5 @@
 ---
-title: ASFGA
+title: Blogs by Sahdeep
 menus:
   main:
     title: Blog
