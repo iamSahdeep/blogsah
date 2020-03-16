@@ -2,13 +2,13 @@
   "links": [
     {
       "title": "Facebook",
-      "icon": "fa-facebook-official",
-      "url": "fb.com/iamSahdeep"
+      "icon": "fa-facebook-f",
+      "url": "https://fb.com/iamSahdeep"
     },
     {
       "title": "Github",
       "icon": "fa-github",
-      "url": "github.com/iamSahdeep"
+      "url": "https://github.com/iamSahdeep"
     },
     {
       "type": "twitter",
