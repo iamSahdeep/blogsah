@@ -1,7 +1,7 @@
 {
   "title": "Sahdeep Singh",
   "color_scheme": "dark",
-  "accent_color": "blue",
+  "accent_color": "green",
   "header": {
     "title": "SAH",
     "has_nav": true
@@ -10,8 +10,8 @@
     "content": "&copy; Sahdeep Singh. All rights reserved.",
     "links": [
       {
-        "text": "Build with <3",
-        "new_window": true
+        "text": "Build with ❤️",
+        "new_window": false
       }
     ],
     "has_social": true
