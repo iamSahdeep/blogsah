@@ -1,16 +1,31 @@
 ---
-title: Project Title 1
-subtitle: Optional Project Subtitle
-date: '2019-05-10'
-thumb_img_path: images/1_thumb.jpg
-content_img_path: images/1.jpg
+title: Liquid Swipe
+subtitle: " Liquid swipe is the revealing clipper to bring off amazing liquid like
+  swipe to stacked Container and inspired by Cuberto's liquid swipe and IntroViews."
+date: 2019-09-30T18:30:00Z
+thumb_img_path: "/images/1.png"
+content_img_path: "/images/another.gif"
 template: project
+
 ---
+#### **What**
 
-Vis accumsan feugiat adipiscing nisl amet adipiscing accumsan blandit accumsan sapien blandit ac amet faucibus aliquet placerat commodo. Interdum ante aliquet commodo accumsan vis phasellus adipiscing. Ornare a in lacinia. Vestibulum accumsan ac metus massa tempor. Accumsan in lacinia ornare massa amet. Ac interdum ac non praesent. Cubilia lacinia interdum massa faucibus blandit nullam. Accumsan phasellus nunc integer. Accumsan euismod nunc adipiscing lacinia erat ut sit. Arcu amet. Id massa aliquet arcu accumsan lorem amet accumsan.
+So, Liquid Swipe is a Widget made in Flutter using dart. I provided the Swipe to your stacked Containers with Liquidified animation to it. It actually clips the front container and displays the container behind it. 
 
->"A designer knows he has achieved perfection not when there is nothing left to add, but when there is nothing left to take away." -Antoine de Saint-Exupery
+#### **Why**
 
-Amet nibh adipiscing adipiscing. Commodo ante vis placerat interdum massa massa primis. Tempus condimentum tempus non ac varius cubilia adipiscing placerat lorem turpis at. Aliquet lorem porttitor interdum. Amet lacus. Aliquam lobortis faucibus blandit ac phasellus. In amet magna non interdum volutpat porttitor metus a ante ac neque. Nisi turpis. Commodo col. Interdum adipiscing mollis ut aliquam id ante adipiscing commodo integer arcu amet Ac interdum ac non praesent. Cubilia lacinia interdum massa faucibus blandit nullam. Accumsan phasellus nunc integer. Accumsan euismod nunc adipiscing lacinia erat ut sit. Arcu amet. Id massa aliquet arcu accumsan lorem amet accumsan commodo odio cubilia ac eu interdum placerat placerat arcu commodo lobortis adipiscing semper ornare pellentesque.
+Was just looking for some cool designs on Dribble and then found this as a design on it. Then looked for the developers and they have only build it for Swift.
 
-Amet nibh adipiscing adipiscing. Commodo ante vis placerat interdum massa massa primis. Tempus condimentum tempus non ac varius cubilia adipiscing placerat lorem turpis at. Aliquet lorem porttitor interdum. Amet lacus. Aliquam lobortis faucibus blandit ac phasellus. In amet magna non interdum volutpat porttitor metus a ante ac neque. Nisi turpis. Commodo col. Interdum adipiscing mollis ut aliquam id ante adipiscing commodo integer arcu amet blandit adipiscing arcu ante.
+[https://github.com/Cuberto/liquid-swipe](https://github.com/Cuberto/liquid-swipe "Source code to Swift Liquid Swipe")
+
+Then Started working on it. :p
+
+#### **How**
+
+For a month I was trying to convert the swift code into flutter and was very frustated of it cause i didn't even know about the "S" of the Swift language. Then I come to know about [IntroView](https://github.com/aagarwal1012/IntroViews-Flutter "Introview") and then everything became easy for me.
+
+###### This is my first Famous and Trending Project. Just stood awaken for several nights and got this as my achievement. 
+
+Link to Pub : [https://pub.dev/packages/liquid_swipe](https://pub.dev/packages/liquid_swipe "https://pub.dev/packages/liquid_swipe")
+
+Link to Github Repo : [https://github.com/iamSahdeep/liquid_swipe_flutter](https://github.com/iamSahdeep/liquid_swipe_flutter "https://github.com/iamSahdeep/liquid_swipe_flutter")
