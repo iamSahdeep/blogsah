@@ -29,5 +29,3 @@ For a month I was trying to convert the swift code into flutter and was very fru
 Link to Pub : [https://pub.dev/packages/liquid_swipe](https://pub.dev/packages/liquid_swipe "https://pub.dev/packages/liquid_swipe")
 
 Link to Github Repo : [https://github.com/iamSahdeep/liquid_swipe_flutter](https://github.com/iamSahdeep/liquid_swipe_flutter "https://github.com/iamSahdeep/liquid_swipe_flutter")
-
-![](https://github.com/iamSahdeep/liquid_swipe_flutter/blob/master/assets/example.gif)
