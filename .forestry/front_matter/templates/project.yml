@@ -34,4 +34,3 @@ fields:
     required: true
 pages:
 - src/pages/projects/project-1.md
-- src/pages/projects/project-7.md
