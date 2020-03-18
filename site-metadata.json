@@ -4,7 +4,8 @@
   "accent_color": "green",
   "header": {
     "title": "SAH",
-    "has_nav": true
+    "has_nav": true,
+    "logo_img": "/images/New Project.png"
   },
   "footer": {
     "content": "&copy; Sahdeep Singh. All rights reserved.",
