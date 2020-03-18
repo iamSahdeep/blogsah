@@ -25,3 +25,4 @@ fields:
     required: true
 pages:
 - src/pages/about.md
+- src/pages/projects/liquid-swipe.md
