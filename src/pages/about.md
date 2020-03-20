@@ -1,18 +1,20 @@
 ---
-title: About Us
-subtitle: This is a short page about us and our work.
-img_path: images/about.jpg
+title: About Me
+subtitle: A versatile, high energy android/flutter developer, always creating something
+  creative.
+img_path: "/images/two.png"
 menus:
   main:
     title: About
     weight: 4
 template: page
+
 ---
+#### Glad to meet you!
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus vel venenatis augue. Suspendisse tincidunt, nibh eget sodales eleifend, lectus magna elementum lorem, ut bibendum tellus turpis quis risus. Vivamus sagittis enim est, et semper lectus hendrerit ut.
+I'm **Sahdeep**, I'm a 22 years old Software Engineer. I have just graduated from my Bachelors in Tech and have enjoyed every part of it! I love to create Android applications and always love designing & developing it. Right now I am working on Projects related to Flutter. You can look all of my projects in this very same Website. I love what I do and combine my knowledge with enthusiasm to go above my own expectations. I love to connect, and right now I look forward to connect with you!
 
->The world always seems brighter when you’ve just made something that wasn’t there before. - Neil Gaiman
+##### My skills Included but not limited to :
 
-In sollicitudin imperdiet turpis quis accumsan. Pellentesque euismod turpis et nisi fermentum accumsan. Sed mollis vehicula augue sit amet accumsan. Nunc mollis, risus sed ullamcorper bibendum, odio est molestie tellus, venenatis rutrum mauris nibh at nibh. In a auctor leo, eu pretium ante. Quisque faucibus tincidunt fringilla. Donec tempor accumsan ante, in cursus metus tincidunt at. Proin sit amet ligula sed libero consequat consectetur eu tincidunt nulla. 
-
-*Thank You for reading!*
+* I can Develop **Android** Apps using **Java** and Cross Platform Apps using **Flutter**. Also, WebApps using Flutter's Humingbird. I have experience in publishing Apps and Plugin on Playstore and **Github** respectively.
+* Moreover, I am very much famliar with **Firebase** and its integration in flutter and Android. I have basic to moderate knowledge of certain programminig languages like **C**, **C++**, **kotlin** and **Dart**. Other than that Exploring new tech is my passion and it will be.
