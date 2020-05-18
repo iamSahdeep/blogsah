@@ -35,10 +35,12 @@ sections:
   title: Recent Work
   section_id: latest-projects
   component: PortfolioBlock
-  subtitle: An optional subtitle of the section
+  subtitle: Here are some of my Open Source Projects and Apps which i have developed
+    or worked upon, with their brief exaplantion. Do check them out and provide any
+    feedback you want.
   layout_style: mosaic
   num_projects_displayed: 6
-  view_all_text: View All
+  view_all_text: View'em All
   view_all_url: portfolio/index.html
 - type: testimonialsblock
   template: testimonialsblock
