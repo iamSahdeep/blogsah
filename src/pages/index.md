@@ -42,38 +42,25 @@ sections:
   num_projects_displayed: 6
   view_all_text: View'em All
   view_all_url: portfolio/index.html
-- type: testimonialsblock
-  template: testimonialsblock
-  title: Testimonials
-  section_id: testimonials
-  component: TestimonialsBlock
-  subtitle: An optional subtitle of the section
-  testimonialslist:
-  - author: John Doe
-    avatar: images/john_doe.jpg
-    content: Vestibulum a nunc ut eros condimentum posuere. Nullam dapibus quis nunc
-      non interdum. Pellentesque tortor ligula, gravida ac commodo eu.
-  - author: Jane Roe
-    avatar: images/jane_roe.jpg
-    content: Sed laoreet magna commodo libero euismod sodales. Nunc ac libero convallis,
-      interdum ligula vel, pretium diam. Integer commodo sem at dui sollicitudin,
-      vel posuere justo laoreet.
 - type: postsblock
   template: postsblock
-  title: Latest from the Blog
+  title: Some of my latest Blogs
   section_id: latest-posts
   component: PostsBlock
-  subtitle: An optional subtitle of the section
+  subtitle: I don't write much but I love to share thing about tech with my colleagues
+    and Juniors as well. You can find same post on Dev.to as well.
   num_posts_displayed: 2
   actions:
-  - label: View Blog
+  - label: View All Blogs
     url: blog/index.html
 - type: contactblock
   template: contactblock
   title: Contact Us
   section_id: contact
   component: ContactBlock
-  subtitle: An optional subtitle of the section
+  subtitle: 'Would love to connect with you. Drop me a message with whatever feedback
+    or suggestion Or you can even just say Hi. If you want to connect on any Social
+    Media, my handle is @iamSahdeep almost everywhere. '
 menus:
   main:
     title: Home
