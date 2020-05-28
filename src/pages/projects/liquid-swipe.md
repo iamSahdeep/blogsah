@@ -4,7 +4,7 @@ subtitle: " Liquid swipe is the revealing clipper to bring off amazing liquid li
   swipe to stacked Container and inspired by Cuberto's liquid swipe and IntroViews."
 date: 2019-09-30T18:30:00Z
 thumb_img_path: "/images/1.png"
-content_img_path: "/images/page1.png"
+content_img_path: "/images/1.png"
 template: project
 
 ---
