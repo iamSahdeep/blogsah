@@ -42,17 +42,6 @@ sections:
   num_projects_displayed: 6
   view_all_text: View'em All
   view_all_url: portfolio/index.html
-- type: postsblock
-  template: postsblock
-  title: Some of my latest Blogs
-  section_id: latest-posts
-  component: PostsBlock
-  subtitle: I don't write much but I love to share thing about tech with my colleagues
-    and Juniors as well. You can find same post on Dev.to as well.
-  num_posts_displayed: 2
-  actions:
-  - label: View All Blogs
-    url: blog/index.html
 - type: contactblock
   template: contactblock
   title: Contact Us
