@@ -44,7 +44,7 @@ sections:
   view_all_url: portfolio/index.html
 - type: contactblock
   template: contactblock
-  title: Contact Us
+  title: Contact Me
   section_id: contact
   component: ContactBlock
   subtitle: 'Would love to connect with you. Drop me a message with whatever feedback
