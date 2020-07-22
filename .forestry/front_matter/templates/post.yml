@@ -36,5 +36,3 @@ fields:
   default: post
   config:
     required: true
-pages:
-- src/pages/posts/2016-08-22-working-from-home.md
