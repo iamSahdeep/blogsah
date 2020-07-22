@@ -38,4 +38,3 @@ fields:
     required: true
 pages:
 - src/pages/posts/2016-08-22-working-from-home.md
-- src/pages/posts/2018-01-15-function-of-design .md
