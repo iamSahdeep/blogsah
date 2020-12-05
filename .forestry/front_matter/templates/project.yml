@@ -34,4 +34,3 @@ fields:
     required: true
 pages:
 - src/pages/projects/bop-music-player.md
-- src/pages/projects/liquid-swipe.md
