@@ -1,5 +1,5 @@
 ---
-title: Sah
+title: Blogs
 sections:
 - type: heroblock
   template: heroblock
