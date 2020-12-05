@@ -50,6 +50,14 @@ sections:
   subtitle: 'Would love to connect with you. Drop me a message with whatever feedback
     or suggestion Or you can even just say Hi. If you want to connect on any Social
     Media, my handle is @iamSahdeep almost everywhere. '
+- template: postsblock
+  component: PostsBlock
+  type: postsblock
+  num_posts_displayed: 5
+  title: Latest Blogs
+  section_id: ''
+  subtitle: ''
+  actions: []
 menus:
   main:
     title: Home
