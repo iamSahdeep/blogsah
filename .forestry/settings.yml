@@ -25,8 +25,8 @@ sections:
   templates:
   - home
 - type: document
-  path: src/pages/blog/index.md
-  label: Blog
+  path: src/pages/all/index.md
+  label: Blogs
   templates:
   - blog
 - type: document
