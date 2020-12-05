@@ -32,5 +32,3 @@ fields:
   default: project
   config:
     required: true
-pages:
-- src/pages/projects/bop-music-player.md
