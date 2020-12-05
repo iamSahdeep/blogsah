@@ -1,18 +1,19 @@
 {
-  "title": "Sahdeep Singh",
-  "color_scheme": "light",
-  "accent_color": "green",
+  "title": "by Sahdeep",
+  "color_scheme": "dark",
+  "accent_color": "yellow",
   "header": {
-    "title": "SAH",
+    "title": "Blogs",
     "has_nav": true,
-    "logo_img": "/images/New Project (1).png"
+    "logo_img": "/images/logo-1.png"
   },
   "footer": {
     "content": "&copy; Sahdeep Singh. All rights reserved.",
     "links": [
       {
         "text": "Build with ❤️",
-        "new_window": false
+        "new_window": true,
+        "url": "www.sahdeepsingh.com"
       }
     ],
     "has_social": true
