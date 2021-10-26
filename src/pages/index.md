@@ -3,11 +3,13 @@ title: Blogs
 sections:
 - type: heroblock
   template: heroblock
-  title: Hi, I'm Sahdeep Singh, Android and Flutter Developer.
+  title: "Hola Amigos \U0001F44B, I'm Sahdeep Singh!"
   section_id: hero
   component: HeroBlock
-  content: I am a highly creative geek, got some skills in mobile application development
-    with wonderfull UI's using Android and Flutter. Currently working at BobbleAI.
+  content: "Currently working as Flutter Engineer\U0001F52D at [ghl](https://gohighlevel.com/).
+    I love to convert Art of Design into Art of Code, [Flutter](https://flutter.dev/)⚡is
+    LOVE. Engineer by profession, Gamer by Hobby, usually love to Animate things in
+    Free Time :)"
 - template: postsblock
   component: PostsBlock
   type: postsblock
