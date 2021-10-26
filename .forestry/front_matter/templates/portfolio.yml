@@ -30,5 +30,3 @@ fields:
   default: portfolio
   config:
     required: true
-pages:
-- src/pages/portfolio/index.md

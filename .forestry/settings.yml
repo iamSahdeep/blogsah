@@ -30,11 +30,6 @@ sections:
   templates:
   - blog
 - type: document
-  path: src/pages/portfolio/index.md
-  label: Portfolio
-  templates:
-  - portfolio
-- type: document
   path: src/pages/contact.md
   label: Contact
   templates:
